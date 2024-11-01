@@ -1,0 +1,17 @@
+.post-type-subre_subscription .tablenav .select2-container {
+  float: left;
+  width: 240px !important;
+  font-size: 14px;
+  vertical-align: middle;
+  margin: 1px 6px 4px 1px;
+}
+
+.column-subscription .order-preview {
+  display: none;
+}
+
+.next_payment.column-next_payment .subre-date-in-the-past {
+  color: red;
+}
+
+/*# sourceMappingURL=admin-subscription-list.css.map */

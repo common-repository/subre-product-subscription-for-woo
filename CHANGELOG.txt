@@ -1,0 +1,25 @@
+/**1.0.7 - 2024.05.11**/
+– Updated: Text domain for some translate text
+– Updated: Add nonce for some request function
+
+/**1.0.6 - 2024.04.13**/
+– Updated: Add setting for basic price html pattern
+
+/**1.0.5 - 2024.03.06**/
+- Updated: price html at cart/checkout blocks
+
+/**1.0.4 - 2024.02.06**/
+– Fixed: Data type in create_renewal_order function
+
+/**1.0.3 - 2023.11.08**/
+– Updated: Compatible with WordPress 6.4
+– Fixed: Show sign-up fee
+
+/**1.0.2 - 2023.10.26**/
+– Updated: Compatible with WordPress 6.3 & WooCommerce 8.2
+
+/**1.0.1 - 2023.07.03**/
+– Updated: Compatible with WooCommerce HPOS(COT)
+
+/**1.0.0 - 2023.02.08**/
+~ The first released

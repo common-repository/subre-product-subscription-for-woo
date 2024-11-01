@@ -1,0 +1,39 @@
+.wrap.subre-product-subscription-for-woo {
+  box-sizing: border-box;
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .subre-past-due-by-container {
+    max-width: 150px;
+  }
+
+  #subre-past_due_by {
+    max-width: calc(100% - 70px);
+  }
+
+  /*Table of placeholders*/
+  .subre-table-of-placeholders {
+    max-width: 500px;
+
+    thead {
+      th {
+        text-align: center;
+      }
+    }
+  }
+
+  .subre-table-of-placeholders .subre-placeholder-value-copy {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: #21ba45;
+  }
+
+  .subre-table-of-placeholders .subre-placeholder-value-container {
+    position: relative;
+  }
+}

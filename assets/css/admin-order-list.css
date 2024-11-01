@@ -1,0 +1,14 @@
+.subre-subscription-renewal {
+  display: flex;
+  align-items: center;
+}
+.subre-subscription-renewal .subre-subscription-renewal-icon:before {
+  color: #c6e1c6;
+}
+
+.subre-subscription-list-item {
+  display: flex;
+  align-items: center;
+}
+
+/*# sourceMappingURL=admin-order-list.css.map */

@@ -1,0 +1,48 @@
+.subre-my-account-subscriptions-list {
+  overflow-x: auto;
+}
+
+.subre-subscription-status {
+  display: inline-flex;
+  line-height: 2.5em;
+  color: #777;
+  background: #e5e5e5;
+  border-radius: 4px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  margin: -0.25em 0;
+  cursor: inherit !important;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.subre-subscription-status.subre-subscription-status-subre_trial {
+  background: #ffffff;
+}
+.subre-subscription-status.subre-subscription-status-subre_expired {
+  background: #323232;
+  color: #b9b9b9;
+}
+.subre-subscription-status.subre-subscription-status-failed {
+  background: #eba3a3;
+  color: #761919;
+}
+.subre-subscription-status.subre-subscription-status-completed {
+  background: #c8d7e1;
+  color: #2e4453;
+}
+.subre-subscription-status.subre-subscription-status-processing, .subre-subscription-status.subre-subscription-status-subre_active {
+  background-color: #c6e1c6;
+}
+.subre-subscription-status.subre-subscription-status-subre_trial {
+  background: #e5eb91;
+}
+.subre-subscription-status.subre-subscription-status-on-hold {
+  background: #f8dda7;
+  color: #94660c;
+}
+.subre-subscription-status > span {
+  margin: 0 1em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/*# sourceMappingURL=frontend-subscription-statuses.css.map */

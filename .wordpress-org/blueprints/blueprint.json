@@ -1,0 +1,50 @@
+{
+  "landingPage": "\/wp-admin\/admin.php?page=subre-product-subscription-for-woo",
+  "preferredVersions": {
+    "php": "8.0",
+    "wp": "latest"
+  },
+  "phpExtensionBundles": [
+    "kitchen-sink"
+  ],
+  "features": {
+    "networking": true
+  },
+  "steps": [
+    {
+      "step": "installTheme",
+      "themeZipFile": {
+        "resource": "wordpress.org\/themes",
+        "slug": "storefront"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "installPlugin",
+      "pluginZipFile": {
+        "resource": "wordpress.org\/plugins",
+        "slug": "woocommerce"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "installPlugin",
+      "pluginZipFile": {
+        "resource": "url",
+        "url": "https:\/\/downloads.wordpress.org\/plugin\/subre-product-subscription-for-woo.zip"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "login",
+      "username": "admin",
+      "password": "password"
+    }
+  ]
+}

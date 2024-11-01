@@ -1,0 +1,1320 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SUBRE – Product Subscription for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-11 08:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.3\n"
+"X-Domain: subre-product-subscription-for-woo"
+
+#. 1: credit card type 2: last 4 digits
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/data.php:227
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/data.php:237
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr ""
+
+#. %1s: subscription total, %2s: subscription period
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:914
+#, php-format
+msgid "%1$s/%2$s"
+msgstr ""
+
+#. %s: human-readable time difference
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/data.php:186
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr ""
+
+#. %s: human-readable time difference
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/data.php:180
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "In %s"
+msgstr ""
+
+#. %s: number of day to expire
+#. %s: day to expire
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/cart.php:313
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-product-helper.php:175
+#, php-format
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: number of month to expire
+#. %s: month to expire
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/cart.php:304
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-product-helper.php:166
+#, php-format
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: number of week to expire
+#. %s: week to expire
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/cart.php:308
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-product-helper.php:170
+#, php-format
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: number of year to expire
+#. %s: year to expire
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/cart.php:300
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-product-helper.php:162
+#, php-format
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-subscription-cancelled.php:74
+msgid "[{site_title}]: Subscription #{order_number} has been cancelled"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-subscription-expired.php:74
+msgid "[{site_title}]: Subscription #{order_number} has expired"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:170
+msgid "A subscription from this product already exists in this order"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:451
+msgid "Actions"
+msgstr ""
+
+#. %s: number of orders
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/order-list.php:75
+#, php-format
+msgid "Active <span class=\"count\">(%s)</span>"
+msgid_plural "Active <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:110
+msgid "Add new subscription"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:109
+msgid "Add subscription"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:364
+msgid "Add to cart button title"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:487
+msgid "Additional info for subscriptions that have expiry dates"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:119
+msgctxt "Admin menu name"
+msgid "Subscriptions"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:252
+msgid ""
+"Allow changing payment method when customers manually pay a subscription "
+"renewal order."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:288
+msgid "Allow expired subscriptions to be renewable"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:92
+msgid "Are you sure you want to cancel this subscription?"
+msgstr ""
+
+#. %s: number of orders
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/order-list.php:85
+#, php-format
+msgid "Awaiting Cancel <span class=\"count\">(%s)</span>"
+msgid_plural "Awaiting Cancel <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:401
+msgid "Billing cycle"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:197
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:434
+msgid "Cancel"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:258
+msgid "Cancel subscription"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:281
+msgid "Cancel the subscription"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:239
+msgid "Change payment"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:394
+msgid "Change price html basic"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:414
+msgid "Change price html if a product has both sign-up fee and trial available"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:457
+msgid "Change price html if a product has sign-up fee"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:436
+msgid "Change price html if trial is available"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:373
+msgid "Change title of add to cart button if a product is subscription"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:388
+msgid ""
+"Change title of Checkout button if cart contains at least 1 subscription "
+"product"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-product.php:123
+msgid "Check if this is a subscription product"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:379
+msgid "Checkout button title"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Convert WooCommerce simple products(physical or downloadable/virtual) to "
+"subscription products and allow recurring payments"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:531
+msgid "Copy"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:209
+msgid "Custom"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:58
+msgid "Custom field deleted."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:57
+msgid "Custom field updated."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/payment/stripe.php:150
+msgid "Customer not found"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-product.php:105
+msgid "Cycle"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:329
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-list.php:126
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:449
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/related-orders.php:20
+msgid "Date"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-product-helper.php:32
+msgid "Day"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:274
+msgid "day(s)"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:287
+msgid "details"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:111
+msgid "Edit"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:112
+msgid "Edit subscription"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-product.php:101
+msgid "Empty = never expire"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-product.php:86
+msgid "Empty = no trial"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:336
+msgid "Endpoint for My account/Subscriptions"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:351
+msgid "Endpoint for My account/View subscription"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-product.php:99
+msgid "Expire after"
+msgstr ""
+
+#. %s: number of orders
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/order-list.php:80
+#, php-format
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgid_plural "Expired <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:306
+msgid ""
+"Expired subscriptions' start from previous expiry date after being renewed"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/order-edit.php:66
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-list.php:130
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/order/related-subscriptions.php:21
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/subscription-details.php:136
+msgid "Expiry Date"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:491
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:438
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:464
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/subscriptions-list.php:33
+msgid "Expiry date"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:478
+msgid "Expiry date info"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:490
+msgid "Expiry period"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:519
+msgid "Explanation"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:120
+msgid "Filter subscriptions"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:357
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:370
+msgid "Final subscription renewal order reached"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/cart.php:107
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/cart.php:332
+msgid "First renewal:"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:206
+msgid "General"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:424
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:445
+msgid "h"
+msgstr ""
+
+#. %s: Customer first name
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/auto-renewal-reminder.php:33
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/customer-subscription-cancelled.php:28
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/customer-subscription-expired.php:28
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/manual-renewal-reminder.php:30
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/plain/auto-renewal-reminder.php:29
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/plain/customer-subscription-cancelled.php:24
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/plain/customer-subscription-expired.php:24
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/plain/manual-renewal-reminder.php:26
+#, php-format
+msgid "Hi %s,"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:196
+msgid "How it works:"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://villatheme.com/extensions/subre-woocommerce-product-subscription/"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:262
+msgid "If a recurring payment is incomplete for"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:198
+msgid ""
+"If an order that contains subscription products is created via a payment "
+"method that supports automatic renewal, subscriptions generated from that "
+"order will be renewed automatically. Otherwise, subscriptions will be "
+"renewed manually. In both cases, a reminder email will be sent <strong>1 "
+"day</strong> before renewal payment due."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-product.php:99
+msgid "If empty, subscription will never expire"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:320
+msgid ""
+"If enabled, the new cycle will commence from the previous expiry date and  "
+"the total value of missed payments will be calculated, rather than starting "
+"from the current date."
+msgstr ""
+
+#. %1$s: Order link
+#. %s: Order link
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/auto-renewal-reminder.php:37
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/customer-subscription-cancelled.php:32
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/customer-subscription-expired.php:32
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/manual-renewal-reminder.php:34
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/plain/auto-renewal-reminder.php:33
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/plain/customer-subscription-cancelled.php:28
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/plain/customer-subscription-expired.php:28
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/plain/manual-renewal-reminder.php:30
+#, php-format
+msgid "If you need to take any actions, please go to %s."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:109
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-actions.php:62
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-actions.php:82
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-actions.php:107
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-actions.php:137
+msgid "Invalid subscription."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:276
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:277
+msgid "Items"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/myaccount/view-subscription.php:33
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-product.php:84
+msgid "Leave empty to not allow trial"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:280
+msgid "Leave the subscription as-is"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:429
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:450
+msgid "m"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/data.php:190
+msgid "M j, Y"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:67
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-product-helper.php:34
+msgid "Month"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:109
+msgid "My account"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/subscriptions-list.php:85
+msgid "My account/Subscriptions"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:113
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/subscriptions-list.php:15
+msgid "New subscription"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/subscriptions-list.php:31
+msgid "Next Payment"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:116
+msgid "No subscriptions found"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:117
+msgid "No subscriptions found in trash"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:165
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:396
+msgid "Not a subscription product"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:323
+msgid "Not a valid Subscription object"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:161
+msgid "Not a valid WooCommerce order object"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:47
+msgid "Not allowed."
+msgstr ""
+
+#. %s: Order number
+#. %1s: Order number, %2s: Order billing name
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/subscription-cancelled.php:28
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/plain/subscription-cancelled.php:25
+#, php-format
+msgid ""
+"Notification to let you know — subscription #%1$s belonging to %2$s has been "
+"cancelled."
+msgstr ""
+
+#. %s: Order number
+#. %1s: Order number, %2s: Order billing name
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/subscription-expired.php:28
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/plain/subscription-expired.php:25
+#, php-format
+msgid ""
+"Notification to let you know — subscription #%1$s belonging to %2$s has "
+"expired."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/subscription-details.php:161
+msgid "Number of times payment is required to renew"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/payment/stripe.php:55
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/payment/stripe_cc.php:80
+msgid "of subscription #"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:233
+msgid "Only apply to products whose \"Manage stock\" is on."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:327
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/related-orders.php:18
+msgid "Order"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-actions.php:157
+msgid "paid"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-list.php:123
+msgid "Parent Order"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:364
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/related-orders.php:68
+msgid "Parent order"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:118
+msgid "Parent subscriptions"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/order-edit.php:64
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:417
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-list.php:128
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:463
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/order/related-subscriptions.php:19
+msgid "Payment due"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/subscription-details.php:125
+msgid "Payment due date"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/payment/stripe.php:53
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/payment/stripe_cc.php:78
+msgid "Payment failed for renewal order #"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-list.php:129
+msgid "Payment Method"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:199
+msgid ""
+"Payment methods that support automatic renewal at the moment: Stripe and "
+"Sepa(<strong>WooCommerce Stripe Gateway</strong> by WooCommerce); Stripe "
+"Credit Cards, SEPA and Stripe Google Pay(<strong>Payment Plugins for Stripe "
+"WooCommerce</strong> by Payment Plugins)"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-schedule.php:185
+msgid "Payment past due, subscription renewal order"
+msgstr ""
+
+#. %s: link to order
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:473
+#, php-format
+msgid "Pending renewal order created: %s"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:518
+msgid "Placeholder"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/renewal.php:141
+msgid "Please complete the payment to renew your subscription #"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:384
+msgid "Previous subscription renewal order unpaid"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:422
+msgid ""
+"Price will display like this if a subscription product has both sign-up fee "
+"and free trial."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:402
+msgid "Price will display like this if a subscription product has nothing."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:465
+msgid ""
+"Price will display like this if a subscription product has sign-up fee but "
+"no trial."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:444
+msgid ""
+"Price will display like this if a subscription product has trial but no sign-"
+"up fee."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/subscription-details.php:50
+msgid "Product"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:185
+msgid "Product not existing in order"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/subscription-details.php:85
+msgid "Product subtotal"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:462
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:467
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/subscriptions-list.php:29
+msgid "Recurring"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-list.php:125
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/subscription-details.php:100
+msgid "Recurring Amount"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/payment/stripe_cc.php:202
+msgid "Recurring payment authorized in Stripe. Payment method:"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/payment/stripe_cc.php:195
+msgid "Recurring payment captured in Stripe. Payment method:"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/payment/stripe_cc.php:162
+msgid "Recurring payment for order failed. Reason:"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:220
+msgid "Reduce stock if renewal"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:299
+msgid "Related Orders"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/related-orders.php:14
+msgid "Related orders"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/order-edit.php:31
+msgid "Related Subscriptions"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/order/related-subscriptions.php:14
+msgid "Related subscriptions"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-auto-renewal-reminder.php:83
+msgid "Reminder of subscription renewal"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:166
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:190
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:399
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:426
+msgid "Renew"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/manual-renewal-reminder.php:32
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/plain/manual-renewal-reminder.php:28
+msgid "renew"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/subscription-details.php:109
+msgid "Renew automatically via"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/subscription-details.php:111
+msgid "Renew manually via"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/renewal.php:132
+msgid "Renew Now"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:364
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/related-orders.php:41
+msgid "Renewal"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-actions.php:155
+msgid "Renewal order"
+msgstr ""
+
+#. %s: link to order
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:471
+#, php-format
+msgid "Renewal order created for subscription %s"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-list.php:124
+msgid "Renewal Orders"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/payment/stripe_cc.php:190
+msgid "Renewal payment initiated in Stripe. Waiting for the payment to clear."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-auto-renewal-reminder.php:23
+msgid "Renewal reminder - Auto payment"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-manual-renewal-reminder.php:23
+msgid "Renewal reminder - Manual payment"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-manual-renewal-reminder.php:24
+msgid ""
+"Renewal reminder emails which are sent to customers 1 day before renewal "
+"payment due for subscriptions that do not support automatic payment."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-auto-renewal-reminder.php:24
+msgid ""
+"Renewal reminder emails which are sent to customers 1 day before renewal "
+"payment due for subscriptions that support automatic payment."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:60
+msgid "Revision restored."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:503
+msgid "Save Settings"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:115
+msgid "Search subscriptions"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:261
+msgid "Set subscription Active"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:264
+msgid "Set subscription On-hold"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/admin.php:17
+msgid "Settings"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/subscription-details.php:93
+msgid "Shipping"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/cart.php:157
+msgid "Sign up fee"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:428
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:470
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-product.php:58
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-product.php:59
+msgid "Sign-up fee"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/payment/stripe.php:201
+msgid ""
+"Sorry, we are unable to process your payment at this time. Please retry "
+"later."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/subscription-details.php:37
+msgid "Start date"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/order-edit.php:65
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:331
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:394
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-list.php:127
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:450
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/order/related-subscriptions.php:20
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/related-orders.php:22
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/subscription-details.php:41
+msgid "Status"
+msgstr ""
+
+#. %s is the charge Id
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/payment/stripe.php:233
+#, php-format
+msgid "Stripe charge awaiting authentication by user: %s."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:551
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:560
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:561
+msgid "SUBRE"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:550
+msgid "SUBRE – Product Subscription for Woo"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:194
+msgid "SUBRE – Product Subscription for Woo Settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "SUBRE – Product Subscription for WooCommerce"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:108
+msgctxt "subre_subscription post type singular name"
+msgid "Subscription"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/order-edit.php:63
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-list.php:122
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-product.php:122
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/checkout.php:38
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:448
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/subscriptions-list.php:27
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/order/related-subscriptions.php:18
+msgid "Subscription"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/subscriptions-list.php:78
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/subscriptions-list.php:81
+msgid "subscription"
+msgid_plural "subscriptions"
+msgstr[0] ""
+msgstr[1] ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:286
+msgid "Subscription #"
+msgstr ""
+
+#. %1s: link to order, %2s: cancelled status name
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:77
+#, php-format
+msgid "Subscription %1$s was %2$s"
+msgstr ""
+
+#. %s: Subscription date use for title
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:299
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:462
+#, php-format
+msgid "Subscription &ndash; %s"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:72
+msgid "Subscription active."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-subscription-cancelled.php:22
+msgid "Subscription Cancelled"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-customer-subscription-cancelled.php:22
+msgid "Subscription Cancelled - Customer"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-customer-subscription-cancelled.php:24
+msgid ""
+"Subscription Cancelled - Customer emails are sent to customers when a "
+"subscription is cancelled."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-actions.php:72
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-actions.php:190
+msgid "Subscription cancelled by customer"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-subscription-cancelled.php:23
+msgid ""
+"Subscription Cancelled emails are sent to chosen recipient(s) when a "
+"subscription is cancelled."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:71
+msgid "Subscription cancelled."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-customer-subscription-cancelled.php:83
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-subscription-cancelled.php:84
+msgid "Subscription Cancelled: #{order_number}"
+msgstr ""
+
+#. %s: link to order
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:305
+#, php-format
+msgid "Subscription created from order %s"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:299
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:462
+msgctxt "Subscription date parsed by DateTime::format"
+msgid "M d, Y @ h:i A"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/subscription-details.php:32
+msgid "Subscription details"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:69
+msgid "Subscription draft updated."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-product.php:113
+msgid "Subscription expiration should be greater than subscription interval"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-subscription-expired.php:22
+msgid "Subscription Expired"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-customer-subscription-expired.php:22
+msgid "Subscription Expired - Customer"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-customer-subscription-expired.php:24
+msgid ""
+"Subscription Expired - Customer emails are sent to customers when a "
+"subscription expired."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-subscription-expired.php:23
+msgid ""
+"Subscription Expired emails are sent to chosen recipient(s) when a "
+"subscription expired."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-customer-subscription-expired.php:83
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-subscription-expired.php:84
+msgid "Subscription Expired: #{order_number}"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:133
+msgid "Subscription expiry date changed from"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:139
+msgid "Subscription expiry date changed to"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:159
+msgid "Subscription expiry date removed, previous value is"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/order-list.php:55
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:307
+msgid "Subscription Info"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:406
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:426
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:448
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:469
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-product.php:69
+msgid "Subscription interval"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:110
+msgid "Subscription payment due changed from"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:116
+msgid "Subscription payment due changed to"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:405
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:425
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:447
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:468
+msgid "Subscription price"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:62
+msgid "Subscription saved."
+msgstr ""
+
+#. %s: date
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:66
+#, php-format
+msgid "Subscription scheduled for: %s."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:258
+msgid "Subscription status"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:592
+msgctxt "Subscription status"
+msgid "Active"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:594
+msgctxt "Subscription status"
+msgid "Awaiting Cancel"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:593
+msgctxt "Subscription status"
+msgid "Expired"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:591
+msgctxt "Subscription status"
+msgid "Trial"
+msgstr ""
+
+#. %1s: old subscription status, %2s: new subscription status
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:667
+#, php-format
+msgid "Subscription status changed from %1$s to %2$s"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:63
+msgid "Subscription submitted."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-product.php:84
+msgid "Subscription trial"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:70
+msgid "Subscription updated and sent."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:56
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:59
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:61
+msgid "Subscription updated."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/myaccount/view-subscription.php:27
+msgid "Subscription updates"
+msgstr ""
+
+#. %1s: link to order, %2s: status name
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:75
+#, php-format
+msgid "Subscription's parent order %1$s is %2$s"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:486
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:107
+msgid "Subscriptions"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:327
+msgid "Subscriptions endpoint"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:122
+msgid "Subscriptions list"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:121
+msgid "Subscriptions navigation"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-subscription-cancelled.php:134
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-subscription-expired.php:134
+msgid "Thanks for reading."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-auto-renewal-reminder.php:133
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-customer-subscription-cancelled.php:133
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-customer-subscription-expired.php:133
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-manual-renewal-reminder.php:133
+msgid "Thanks for using {site_url}!"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/order-list.php:41
+msgid "The subscription created from this order"
+msgstr ""
+
+#. %s: number of days overdue
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-schedule.php:103
+#, php-format
+msgid "The subscription is past due by %s day"
+msgid_plural "The subscription is past due by %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/order-list.php:28
+msgid "The subscription of which this order is a renewal"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-schedule.php:125
+msgid "The subscription was scheduled for cancel"
+msgstr ""
+
+#. %s: subscription link
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/subscription-renewal-info.php:13
+#, php-format
+msgid "This is a renewal order of subscription %s."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-product.php:70
+msgid "This is subscription billing cycle"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:124
+msgid "This is where store subscriptions are stored."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/renewal.php:153
+msgid ""
+"This order belongs to a subscription which is expired/cancelled or payment "
+"is not needed anymore."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/payment/stripe.php:224
+msgid "This transaction requires authentication."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:112
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:135
+msgid "to"
+msgstr ""
+
+#. %s: link to my account subscription
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/subscriptions-list.php:85
+#, php-format
+msgid "To view and manage all your subscriptions, please go to %s."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:330
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/related-orders.php:21
+msgid "Total"
+msgstr ""
+
+#. %s: number of orders
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/order-list.php:91
+#, php-format
+msgid "Trial <span class=\"count\">(%s)</span>"
+msgid_plural "Trial <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:410
+msgid "Trial ends"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:427
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:449
+msgid "Trial period"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/subscription-edit.php:328
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/related-orders.php:19
+msgid "Type"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-schedule.php:187
+msgid "unpaid"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/frontend/my-account.php:380
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/order/related-subscriptions.php:56
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/related-orders.php:49
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/subscription/related-orders.php:76
+msgid "View"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-order.php:114
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/auto-renewal-reminder.php:37
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/customer-subscription-cancelled.php:32
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/customer-subscription-expired.php:32
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/manual-renewal-reminder.php:34
+msgid "View subscription"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:342
+msgid "View subscription endpoint"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme(villatheme.com)"
+msgstr ""
+
+#. %s: Order number
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/customer-subscription-expired.php:30
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/plain/customer-subscription-expired.php:26
+#, php-format
+msgid "We would like to inform you that your subscription #%s has expired."
+msgstr ""
+
+#. %s: Order number
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/customer-subscription-cancelled.php:30
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/plain/customer-subscription-cancelled.php:26
+#, php-format
+msgid ""
+"We would like to inform you that your subscription #%s is now cancelled."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-product-helper.php:33
+msgid "Week"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:232
+msgid ""
+"Will stock of subscription products be reduced normally when a subscription "
+"renewal order is paid?"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-product-helper.php:35
+msgid "Year"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:230
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:250
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:299
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/admin/settings.php:317
+msgid "Yes"
+msgstr ""
+
+#. %s: subscription text
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/subscriptions-list.php:81
+#, php-format
+msgid ""
+"You will have to renew your %s manually before each renewal date. A reminder "
+"email will be sent 1 day before a renewal payment dues."
+msgstr ""
+
+#. %s: subscription text
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/subscriptions-list.php:78
+#, php-format
+msgid "Your %s will be renewed automatically."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/subscriptions-list.php:17
+msgid "Your subscription"
+msgid_plural "Your subscriptions"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %1$s: Order number
+#. %s: Order number
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/auto-renewal-reminder.php:35
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/plain/auto-renewal-reminder.php:31
+#, php-format
+msgid ""
+"Your subscription #%1$s is about to due and it will be automatically renewed "
+"on %2$s via %3$s for a total amount of %4$s."
+msgstr ""
+
+#. %1$s: Order number
+#. %s: Order number
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/manual-renewal-reminder.php:32
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/templates/emails/plain/manual-renewal-reminder.php:28
+#, php-format
+msgid ""
+"Your subscription #%1$s is about to due. For not to be interrupted, please "
+"%2$s it before %3$s."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-customer-subscription-cancelled.php:73
+msgid "Your subscription #{order_number} has been cancelled"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-customer-subscription-expired.php:73
+msgid "Your subscription #{order_number} has expired"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-manual-renewal-reminder.php:73
+msgid "Your subscription #{order_number} is about to due"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-auto-renewal-reminder.php:73
+msgid "Your subscription #{order_number} will be renewed soon"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-actions.php:80
+msgid ""
+"Your subscription can no longer be cancelled. Please contact us if you need "
+"assistance."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-actions.php:135
+msgid ""
+"Your subscription can no longer be renewed. Please contact us if you need "
+"assistance."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/emails/class-wc-email-manual-renewal-reminder.php:83
+msgid "Your subscription is about to due"
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-actions.php:73
+msgid ""
+"Your subscription is scheduled to cancel at the end of current billing cycle."
+msgstr ""
+
+#: E:/git-2017/free-version/subre-product-subscription-for-woo/subre-product-subscription-for-woo/includes/subscription-actions.php:77
+msgid "Your subscription was cancelled."
+msgstr ""

@@ -1,0 +1,49 @@
+#subre_subscription_info {
+  .subre-subscription-info-item-wrap {
+    > label {
+      font-weight: 500;
+    }
+
+    .subre-subscription-info-item {
+      display: flex;
+
+      &.subre-subscription-status-container {
+        display: inline-block;
+        vertical-align: middle;
+      }
+
+      &.subre-billing-cycle-container,
+      &.subre-trial-end-container {
+        display: inline-block;
+        vertical-align: bottom;
+      }
+
+      .subre-hour,
+      .subre-minute {
+        width: 3.5em;
+      }
+    }
+  }
+}
+
+#order_data {
+  .subre-related-orders-table {
+    .order-preview {
+      display: none;
+    }
+  }
+
+  .form-field {
+    &.form-field-wide {
+      &.wc-order-status {
+        display: none;
+      }
+    }
+  }
+
+  .woocommerce-order-data__heading {
+    + .woocommerce-order-data__heading {
+      display: none;
+    }
+  }
+}
